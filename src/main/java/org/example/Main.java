@@ -3,7 +3,7 @@ package org.example;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//hw_2
 public class Main {
     public static void main(String[] args) {
         Map<String, String> params = new HashMap<String, String>();
