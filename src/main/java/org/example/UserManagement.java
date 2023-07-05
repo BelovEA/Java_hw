@@ -5,6 +5,8 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+
 class User {
     String fullName;
     int age;
